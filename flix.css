@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "font";
+  src: url(/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30eg.woff2);
+}
+body {
+  font-family: "font";
+}
+.main {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  height: 80px;
+}
+#img1 {
+  height: 40px;
+  width: 180px;
+}
+.content3 p {
+  font-size: small;
+}
+#colimg {
+  width: 500px;
+  height: 600px;
+}
+#rowend {
+  display: flex;
+  justify-content: flex-end;
+}
+.greyey p {
+  color: grey;
+}
+.foot p {
+  font-size: 13px;
+}
+.foot li {
+  list-style-type: none;
+  font-size: 13px;
+}
+.foot a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
